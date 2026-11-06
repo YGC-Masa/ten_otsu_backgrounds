@@ -1,0 +1,13 @@
+{
+  "source_repository": "https://github.com/YGC-Masa/ten_otsu",
+  "source_commit": "8f3060450c8fe6ba8f7ac7550c9bd5571fff40da",
+  "status": "local_copy_only",
+  "assets": [{
+    "landmark_id": "LM-112",
+    "background_id": "BG-239",
+    "catalog_key": "tsukiga_irodori_shop_day",
+    "path": "images/assets/bg/bg_tsukiga_irodori_shop_day.webp",
+    "bytes": 380042,
+    "sha256": "2a91b7f8d4f5651bbf200a98b8af3d3ae890230a17d5432df8d6b1463f262b5b"
+  }]
+}
