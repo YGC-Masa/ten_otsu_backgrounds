@@ -1,7 +1,7 @@
 {
   "source_repository": "https://github.com/YGC-Masa/ten_otsu",
   "source_commit": "8f3060450c8fe6ba8f7ac7550c9bd5571fff40da",
-  "status": "local_copy_only",
+  "status": "copied_source_retained",
   "assets": [{
     "landmark_id": "LM-112",
     "background_id": "BG-239",
@@ -9,5 +9,13 @@
     "path": "images/assets/bg/bg_tsukiga_irodori_shop_day.webp",
     "bytes": 380042,
     "sha256": "2a91b7f8d4f5651bbf200a98b8af3d3ae890230a17d5432df8d6b1463f262b5b"
+  }, {
+    "landmark_id": "LM-014",
+    "background_id": "BG-101",
+    "catalog_key": "hidamarizaka_bakery_street_morning",
+    "path": "images/assets/bg/bg_hidamarizaka_bakery_street_morning.webp",
+    "source_commit": "fff6b7610e7292fa8a76be461049448d964a4bf6",
+    "bytes": 560096,
+    "sha256": "827105f905067210b97801240a7a4382fd58ecab40932185ef4a15fbaa8a88d8"
   }]
 }
