@@ -17,5 +17,17 @@
     "source_commit": "fff6b7610e7292fa8a76be461049448d964a4bf6",
     "bytes": 560096,
     "sha256": "827105f905067210b97801240a7a4382fd58ecab40932185ef4a15fbaa8a88d8"
+  }, {
+    "landmark_id": "LM-054", "background_id": "BG-088", "catalog_key": "aoba_campfield_evening",
+    "path": "images/assets/bg/bg_aoba_campfield_evening.webp", "source_commit": "fff6b7610e7292fa8a76be461049448d964a4bf6",
+    "bytes": 601334, "sha256": "0f68c6f001ea2df1d892d3a110230762b5a096095dee12bb22a9c251f97d0bda"
+  }, {
+    "landmark_id": "LM-085", "background_id": "BG-190", "catalog_key": "aomine_safari_entrance_autumn_day",
+    "path": "images/assets/bg/bg_aomine_safari_entrance_autumn_day.webp", "source_commit": "fff6b7610e7292fa8a76be461049448d964a4bf6",
+    "bytes": 511806, "sha256": "92413f97934c3fed7f7837809bf11ef423c95df4a4be8963e0bbcef50747da72"
+  }, {
+    "landmark_id": "LM-082", "background_id": "BG-187", "catalog_key": "aonami_megaseapark_entrance_night",
+    "path": "images/assets/bg/bg_aonami_megaseapark_entrance_night.webp", "source_commit": "fff6b7610e7292fa8a76be461049448d964a4bf6",
+    "bytes": 225722, "sha256": "34c68013ec525d07d1d1d84923321c0b9573b3bb5172c8b373f6c8fdfdb6fe33"
   }]
 }
